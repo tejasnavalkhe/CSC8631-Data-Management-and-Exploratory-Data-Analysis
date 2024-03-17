@@ -1,0 +1,65 @@
+commit e35d5367db19d006219711de913d47b72fd262e4
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Fri Nov 17 02:34:15 2023 +0000
+
+    References added.
+
+commit 793c3222f5be3d79413f5a7dfd6c424216545213
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Fri Nov 17 02:08:10 2023 +0000
+
+    Final Phase of Deployment completed.
+
+commit 55e9750118fcf458ac9eafafd0d90fb8cef719e5
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Fri Nov 17 02:07:17 2023 +0000
+
+    Final Phase of Deployment completed.
+
+commit 24626674fb3e66f93258f683840344b18961a96e
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Fri Nov 17 01:19:43 2023 +0000
+
+    Second Cycle Of CRISP-DM completed
+
+commit 03c3faa0ec04998d65280794cb4ebf81e0216c4f
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Thu Nov 16 19:31:31 2023 +0000
+
+    Modelling (Phase 1) of first cycle completed.
+
+commit dab43fe8610f4c185e71b5fbe7601e53911a6f77
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Thu Nov 16 02:21:43 2023 +0000
+
+    Git logs file name updated to git.txt
+
+commit 128a485fe5a4b69a72d0ac26251e26a614a803f6
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Thu Nov 16 02:20:06 2023 +0000
+
+    Data Understanding (Phase 1) of first cycle completed.
+
+commit f345ba03f4f17a273e647b72b67e0f3c7566b3c2
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Tue Nov 14 23:02:53 2023 +0000
+
+    Business Understanding (Phase 1) of first cycle completed.
+
+commit f1bb894c85f0c45d1955ddb19b401217ee4197f3
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Sun Nov 5 10:57:34 2023 +0000
+
+    Analysis Report RMD file Set Up in reports directory
+
+commit 74da2c150896c7014e83c4599f500edeef410727
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Sun Nov 5 10:55:01 2023 +0000
+
+    Data files added to data folder
+
+commit e053ba3c41755870e2ea3fd94ddd638dd18105a1
+Author: Tejas Navalkhe <navalkhetejas18@gmail.com>
+Date:   Sun Nov 5 10:52:51 2023 +0000
+
+    Set Up ProjectTemplate
